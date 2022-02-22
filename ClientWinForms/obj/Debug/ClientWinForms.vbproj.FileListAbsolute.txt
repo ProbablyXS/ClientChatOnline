@@ -1,0 +1,57 @@
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.pdb
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.xml
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbprojResolveAssemblyReference.cache
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\obj\Debug\Client.MainForm.resources
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\obj\Debug\Client.Resources.resources
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.GenerateResource.Cache
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.exe
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.xml
+D:\Carlosky\My Development\4.6\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.pdb
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.exe
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.xml
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.pdb
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbprojResolveAssemblyReference.cache
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.MainForm.resources
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.Resources.resources
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.GenerateResource.Cache
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.pdb
+G:\Téléchargements\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.xml
+G:\Documents\Visual Studio 2013\Projects\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+G:\Documents\Visual Studio 2013\Projects\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.exe
+G:\Documents\Visual Studio 2013\Projects\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.xml
+G:\Documents\Visual Studio 2013\Projects\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.pdb
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.exe
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.xml
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.pdb
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.pdb
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.xml
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.MainForm.resources
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.Resources.resources
+G:\Documents\Visual Studio 2013\Projects\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.GenerateResource.Cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.pdb
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbprojAssemblyReference.cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.MainForm.resources
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.Resources.resources
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.GenerateResource.cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.CoreCompileInputs.cache
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.exe
+F:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.pdb
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.exe
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Debug\ClientWinForms.pdb
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbprojAssemblyReference.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.MainForm.resources
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\Client.Resources.resources
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.GenerateResource.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.CoreCompileInputs.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.exe
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.pdb

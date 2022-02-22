@@ -1,0 +1,8 @@
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\ClientWinForms.vbprojAssemblyReference.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.MainForm.resources
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.Resources.resources
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\ClientWinForms.vbproj.GenerateResource.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\ClientWinForms.vbproj.CoreCompileInputs.cache
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Release\ClientWinForms.exe.config
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Release\ClientWinForms.exe
+E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\ClientWinForms.exe
