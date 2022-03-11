@@ -7,6 +7,7 @@ Public Class MainForm
     Dim connected As Boolean = False
     Dim timer As Integer = 3 ' = 5 secondes
     Dim _client As New TcpClient
+    Dim ClientName As String
 
     Public Async Function ConnectToTheServer() As Task
 
@@ -15,6 +16,8 @@ Public Class MainForm
         End If
 
         connected = True
+
+        ClientName = UsernameTextBox.Text
 
         Await Task.Delay(1)
 
@@ -32,7 +35,7 @@ Public Class MainForm
 
 
             'SEND CLIENT CONNECTION MESSAGE
-            Dim Clientconnected As String = UsernameTextBox.Text
+            Dim Clientconnected As String = ClientName
             Dim ns As NetworkStream = _client.GetStream()
 
             ns.Write(Encoding.UTF8.GetBytes(Clientconnected), 0, Clientconnected.Length)
@@ -116,19 +119,21 @@ Public Class MainForm
     Private Sub MessageTextBox_KeyDown(sender As Object, e As KeyEventArgs) Handles MessageTextBox.KeyDown
 
         If (e.KeyCode = Keys.Enter) Then
-            e.SuppressKeyPress = True
-            SendMessage(UsernameTextBox.Text, MessageTextBox.Text)
+            e.SuppressKeyPress = True 'delete split keypress (spamming)
+            SendMessage(ClientName, MessageTextBox.Text)
         End If
 
     End Sub
 
     Private Sub ButtonSend_Click(sender As Object, e As EventArgs) Handles ButtonSend.Click
-        SendMessage(UsernameTextBox.Text, MessageTextBox.Text)
+        SendMessage(ClientName, MessageTextBox.Text)
     End Sub
 
     Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim hostName As String = Dns.GetHostName()
-        IpTextBox.Text = Dns.GetHostByName(hostName).AddressList(0).ToString()
+        'IpTextBox.Text = Dns.GetHostByName(hostName).AddressList(0).ToString()
+
+        IpTextBox.Text = "ec2-3-88-165-170.compute-1.amazonaws.com"
     End Sub
 
     Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
@@ -164,5 +169,15 @@ Public Class MainForm
 
     Private Async Sub ButtonConnect_Click(sender As Object, e As EventArgs) Handles ButtonConnect.Click
         Await ConnectToTheServer()
+    End Sub
+
+    Private Sub IpTextBox_KeyDown(sender As Object, e As KeyEventArgs) Handles IpTextBox.KeyDown
+
+        If (e.KeyCode = Keys.Enter) Then
+
+            ConnectToTheServer()
+
+        End If
+
     End Sub
 End Class

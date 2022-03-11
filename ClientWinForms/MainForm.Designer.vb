@@ -60,6 +60,8 @@ Partial Class MainForm
         Me.RichTextBox1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.RichTextBox1.BackColor = System.Drawing.Color.White
+        Me.RichTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.RichTextBox1.Location = New System.Drawing.Point(12, 82)
         Me.RichTextBox1.Name = "RichTextBox1"
         Me.RichTextBox1.ReadOnly = True
@@ -94,7 +96,7 @@ Partial Class MainForm
         Me.IpTextBox.Name = "IpTextBox"
         Me.IpTextBox.Size = New System.Drawing.Size(100, 20)
         Me.IpTextBox.TabIndex = 5
-        Me.IpTextBox.Text = "127.0.0.1"
+        Me.IpTextBox.Text = "ec2-3-88-165-170.compute-1.amazonaws.com"
         '
         'Button1
         '

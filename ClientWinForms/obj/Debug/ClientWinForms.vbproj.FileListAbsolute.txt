@@ -55,3 +55,13 @@ E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\Clien
 E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.vbproj.CoreCompileInputs.cache
 E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.exe
 E:\Projects Visual Studio\TCPXSSERVEUR\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Debug\ClientWinForms.pdb
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\bin\Debug\ClientWinForms.exe
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\bin\Debug\ClientWinForms.pdb
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\obj\Debug\ClientWinForms.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\obj\Debug\Client.MainForm.resources
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\obj\Debug\Client.Resources.resources
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\obj\Debug\ClientWinForms.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\obj\Debug\ClientWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\obj\Debug\ClientWinForms.exe
+C:\Users\Administrator\Desktop\ServerChatOnline\ClientChatOnline\ClientWinForms\obj\Debug\ClientWinForms.pdb
